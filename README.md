@@ -17,12 +17,12 @@ This project is a React component that plays a video and displays related inform
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone git@github.com:radityardy/Youtube-Clone-React.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd Youtube-Clone-React
     ```
 
 3. Install the dependencies:
